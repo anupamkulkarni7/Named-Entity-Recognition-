@@ -1,0 +1,96 @@
+-DOCSTART- -X- -X- O
+
+SOCCER NN B-NP O
+- : O O
+JAPAN NNP B-NP B-LOC
+GET VB B-VP O
+LUCKY NNP B-NP O
+WIN NNP I-NP O
+, , O O
+CHINA NNP B-NP B-PER
+IN IN B-PP O
+SURPRISE DT B-NP O
+DEFEAT NN I-NP O
+. . O O
+
+Nadim NNP B-NP B-PER
+Ladki NNP I-NP I-PER
+
+AL-AIN NNP B-NP B-LOC
+, , O O
+United NNP B-NP B-LOC
+Arab NNP I-NP I-LOC
+Emirates NNPS I-NP I-LOC
+1996-12-06 CD I-NP O
+
+The DT B-NP O
+Syrians NNPS I-NP B-MISC
+scored VBD B-VP O
+early JJ B-NP O
+and CC O O
+then RB B-VP O
+played VBN I-VP O
+defensively RB B-ADVP O
+and CC O O
+adopted VBD B-VP O
+long RB I-VP O
+balls VBZ I-VP O
+which WDT B-NP O
+made VBD B-VP O
+it PRP B-NP O
+hard JJ B-ADJP O
+for IN B-PP O
+us PRP B-NP O
+. . O O
+' '' O O
+
+' '' O O
+
+-DOCSTART- -X- -X- O
+
+RUGBY NNP B-NP B-ORG
+UNION NN I-NP I-ORG
+- : O O
+CUTTITTA NNP B-NP B-PER
+BACK NNP I-NP O
+FOR IN B-PP O
+ITALY JJ B-NP B-LOC
+AFTER NNP I-NP O
+A NNP I-NP O
+YEAR NNP I-NP O
+. . O O
+
+ROME VB B-NP B-LOC
+1996-12-06 CD I-NP O
+
+Italy NNP B-NP B-LOC
+recalled VBD B-VP O
+Marcello NNP B-NP B-PER
+Cuttitta NNP I-NP I-PER
+
+on IN B-PP O
+Friday NNP B-NP O
+for IN B-PP O
+their PRP$ B-NP O
+friendly JJ I-NP O
+against IN B-PP O
+Scotland NNP B-NP B-LOC
+at IN B-PP O
+Murrayfield NNP B-NP B-LOC
+more JJR B-ADJP O
+than IN B-PP O
+a DT B-NP O
+year NN I-NP O
+after IN B-PP O
+the DT B-NP O
+30-year-old JJ I-NP O
+wing NN I-NP O
+announced VBD B-VP O
+he PRP B-NP O
+was VBD B-VP O
+retiring VBG I-VP O
+following VBG B-PP O
+differences NNS B-NP O
+over IN B-PP O
+selection NN B-NP O
+. . O O
