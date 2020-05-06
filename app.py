@@ -23,4 +23,4 @@ if __name__ == '__main__':
     ner_tagger = NERTagger()
     ner_tagger.load()
 
-    app.run(debug=True)
+    app.run(debug=False)
