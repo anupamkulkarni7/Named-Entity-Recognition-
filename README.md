@@ -1,5 +1,5 @@
 # Named Entity Recognition
----
+
 
 This repo is a NER tagger trained on the CONLL 2003 English dataset and 
 pre-trained 50 dimensional GloVE vectors. It is a light, word level system which 
@@ -34,6 +34,7 @@ ner_tagger.predict(input_txt)
 
 ```
 
+---
 
 ### Model Performance
 To evaluate the model performance on the CONLL test set:
